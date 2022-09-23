@@ -1,5 +1,7 @@
 # 鹿児島.mk で作成したサイト
 
+https://megiaki.github.io/mogiaki.github.io-/
+
 ## 参照サイト
 
 イベント情報
