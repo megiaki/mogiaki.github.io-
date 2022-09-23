@@ -9,20 +9,21 @@ body {
   margin-left: auto;
   /* background-image: url("./moegi.jpg");
   background-size: 30%;
-  background-position: 50% 250%;
-} */
+  background-position: 50% 250%;*/
+} 
 
 
 .title{
-  font-size: 100px;
+  margin-top: 10%;
+  font-size: 50px;
   font-family: "Hiragino Sans","Helvetica Black","Arial Black", "sans-serif";;
   font-weight: 900;
-  /* ここに色を追加 */color: green;
+  /* ここに色を追加 */color: rgb(59, 139, 59);
 }
 
 .content {
-  width: 200px;
+  width: 400px;
   padding: 10px;
   box-sizing: border-box;
-  margin: 0 auto;
+  margin:0 auto;
 }
