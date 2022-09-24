@@ -35,7 +35,7 @@ body {
 
 @media screen and (max-width: 480px) {
 	.content {
-    width: 95%;
+    width: 100%;
   }
   .title {
     margin-top: 5%;
