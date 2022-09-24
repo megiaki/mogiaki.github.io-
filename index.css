@@ -35,11 +35,11 @@ body {
 
 @media screen and (max-width: 480px) {
 	.content {
-    width: 100%;
+    width: 95%;
   }
   .title {
     margin-top: 5%;
-    font-size: 4.7em;
+    font-size: 4.5em;
   }
   .h-20 {
     height: 3rem;
